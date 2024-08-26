@@ -5,7 +5,7 @@ As someone who loves to learn, and engage in practical work, I am seeking an opp
 
 Some say having two domains of interest is not an indication of dedication, but I differ from that. I am genuinely passionate about both fields. As someone interested in research, I see AI as a main component that will be used in all fields. Cyber defense, on the other hand, is integral as it protects AI from malicious attacks or misuse(not just AI, defends.
 
-#Moto - Tamil Quote: கற்றது கை மண் அளவு, கல்லாதது உலகளவு
+#### Moto - Tamil Quote: கற்றது கை மண் அளவு, கல்லாதது உலகளவு
 (What we know is just a handful; what we don’t know is the size of the world)
 
 ## Domain of Interest:
