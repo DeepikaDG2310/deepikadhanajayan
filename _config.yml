@@ -1,5 +1,5 @@
 title: Deepika Dhanajayan
 logo: /images/image1.jpg
 description: Data Scientist
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
